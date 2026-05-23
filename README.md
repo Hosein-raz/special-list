@@ -14,9 +14,9 @@ The **Special List UI** is a beautifully crafted, modern list component built en
 
 ### 🎨 Visual Demo
 
-[Special List Online Demo](https://hosein-raz.github.io/members-page/)
+[Special List Online Demo](https://hosein-raz.github.io/special-list/)
 
-<img src="https://github.com/Hosein-raz/members-page/blob/main/special-list.gif" alt="Special List Online Demo" />
+<img src="https://github.com/Hosein-raz/special-list/blob/main/special-list.gif" alt="Special List Online Demo" />
 
 ## ✨ Key Technical Features
 
